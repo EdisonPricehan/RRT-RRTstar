@@ -1,5 +1,7 @@
 # RRT-RRTstar
-Implementation and visualization of RRT and RRTstar algorithms
+Implementation and visualization of RRT and RRT* algorithms
+
+<img src="https://github.com/EdisonPricehan/RRT-RRTstar/blob/9afc7fba70e8e36014210b50fbec9068f6c83861/videos/rrt-try-goal.gif" alt="show" />
 
 ## Run python scripts for each algorithm
 
